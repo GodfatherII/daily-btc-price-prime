@@ -4,11 +4,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Make sure you have git installed and run:
 
-### `git clone `
+### `git clone https://github.com/GodfatherII/daily-btc-price-prime.git`
 
 ## Install Dependencies
 
-Run:
+Then in the project directory (daily-btc-price-prime) run:
 
 ### `npm install`
 
